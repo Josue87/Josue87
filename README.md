@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Josue87&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Josue87/Josue87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
