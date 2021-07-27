@@ -1,16 +1,20 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Josue87&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## Hello there 👋
 
-<!--
-**Josue87/Josue87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an offensive security enthusiast and I like to write code to develop security tools.
 
-Here are some ideas to get you started:
+## Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=Josue87&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
+</div>
+
+## Most used languages
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josue87&langs_count=4&layout=compact&theme=dracula" />
+  </div>
+  
+## Contact
+
+   <a href="https://twitter.com/JosueEncinar">
+    <img src="https://img.shields.io/badge/twitter-@JosueEncinar-orange.svg?style=square&logo=twitter">
+  </a>
